@@ -1,0 +1,3 @@
+[submodule "personal/org-utf-to-xetex"]
+	path = personal/org-utf-to-xetex
+	url = https://github.com/grettke/org-utf-to-xetex.git

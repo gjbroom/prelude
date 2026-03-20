@@ -32,3 +32,5 @@ var/
 .lsp-session*
 gotools/
 eln-cache/
+.org-id-locations
+org-roam.db
